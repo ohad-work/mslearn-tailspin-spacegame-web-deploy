@@ -1,6 +1,8 @@
 
 ## Contributing
 
+[![Build Status](https://dev.azure.com/ohadse0211/Space%20Game%20-%20web%20-%20Multistage/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release)](https://dev.azure.com/ohadse0211/Space%20Game%20-%20web%20-%20Multistage/_build/latest?definitionId=16&branchName=release)
+
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
